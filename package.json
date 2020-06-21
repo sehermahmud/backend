@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Seher Mahmud",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.0",
     "bcryptjs": "^2.4.3",
