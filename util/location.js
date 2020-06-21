@@ -5,4 +5,4 @@ async function getCoordsForAddress(address) {
     };
 }
 
-module.exports = getCoordsForAddress
+module.exports = getCoordsForAddress;
